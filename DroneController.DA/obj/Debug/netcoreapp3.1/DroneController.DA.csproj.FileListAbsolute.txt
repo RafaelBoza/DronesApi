@@ -1,0 +1,13 @@
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\bin\Debug\netcoreapp3.1\DroneController.DA.deps.json
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\bin\Debug\netcoreapp3.1\DroneController.DA.dll
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\bin\Debug\netcoreapp3.1\DroneController.DA.pdb
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.csproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.AssemblyInfo.cs
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.csproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.dll
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.pdb
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\bin\Debug\netcoreapp3.1\DroneController.DA.runtimeconfig.json
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\bin\Debug\netcoreapp3.1\DroneController.DA.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\DroneController\DroneController.DA\obj\Debug\netcoreapp3.1\DroneController.DA.genruntimeconfig.cache
